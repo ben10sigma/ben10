@@ -1,0 +1,7 @@
+/*os seletores abaixo são para definir propriedades para sua pagina inteira*/
+body {
+  /*background: linear-gradient(90deg, rgb(0, 0, 0) 0%, rgba(62,62,62,1) 25%, rgba(124,124,124,1) 50%, rgba(193,192,192,1) 75%,rgba(255,255,255,1) 100%);*/
+background-image:url(Fundo\ e\ rua\ COM\ SOL.png) ;
+  background-size: cover;
+
+}
